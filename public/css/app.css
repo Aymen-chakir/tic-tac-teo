@@ -44,7 +44,7 @@ button a{
 }
 button a:hover{
         color: #2f6fa3;
-        transition: 0.5s;
+        transition: 0.6s;
 }
 .divbutton button:hover{
     background: #0b1f33;
